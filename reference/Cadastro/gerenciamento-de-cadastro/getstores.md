@@ -5,3 +5,4 @@ api:
   operationId: get_stores
 hidden: false
 ---
+**Este serviço retorna as informações das lojas por cliente cadastradas na Shipay.**

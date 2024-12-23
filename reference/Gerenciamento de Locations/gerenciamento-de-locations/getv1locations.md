@@ -5,3 +5,4 @@ api:
   operationId: get_v1-locations
 hidden: false
 ---
+**Este serviço retorna uma lista de locations já criadas.**

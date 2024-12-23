@@ -5,8 +5,9 @@ api:
   operationId: get_v2-order-due-date
 hidden: false
 ---
-**Este serviço deve ser utilizado para retornar o status de uma cobrança específica após a sua criação.**
+**Este serviço retorna as informações de forma detalhada de Boletos Híbridos.**\
+**Pode ser utilizado para consultar as alterações de dados realizadas no boleto Híbrido.**
 
 **IMPORTANTE:**
 
-* Para garantir que obtenham o status atualizado, as janelas de consulta devem ocorrer com um **intervalo mínimo de 3 segundos.**
+* Este serviço também pode ser utilizado para consultar as alterações realizadas através do [serviço de alteração de um Boleto já registrado](https://shipay.readme.io/reference/patch_v2-order-due-date-order-id).

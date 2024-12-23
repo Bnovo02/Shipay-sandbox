@@ -5,3 +5,4 @@ api:
   operationId: get_v1-locations-location-id
 hidden: false
 ---
+**Este serviço retorna as informações contidas em uma location específica.**

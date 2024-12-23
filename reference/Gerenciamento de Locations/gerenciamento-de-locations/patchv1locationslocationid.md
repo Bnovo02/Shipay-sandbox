@@ -5,3 +5,4 @@ api:
   operationId: patch_v1-locations-location-id
 hidden: false
 ---
+**Este serviço exclui as informações da cobrança em uma location específica.**
